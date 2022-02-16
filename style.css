@@ -289,6 +289,10 @@ header .navbar ul li a:hover{
     font-size: 2rem;
     color:#fff;
     background:var(--yellow);
+} 
+. portfolio {
+    display:flex;
+    flex-direction: column;
 }
 .portfolio h2{
     display: flex;
